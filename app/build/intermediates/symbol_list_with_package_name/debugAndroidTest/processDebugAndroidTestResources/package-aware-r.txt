@@ -1,0 +1,3 @@
+com.example.autovoucher.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

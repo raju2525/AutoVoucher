@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\rajub\\.gradle\\daemon\\8.10\\com.example.autovoucher.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rajub\\.gradle\\daemon\\8.10\\com.example.autovoucher.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.autovoucher.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.autovoucher.app-main-37:/layout/activity_main.xml"
+    }
+]

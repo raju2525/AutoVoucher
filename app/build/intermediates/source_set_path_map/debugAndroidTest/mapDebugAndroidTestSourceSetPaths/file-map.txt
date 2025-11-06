@@ -1,0 +1,6 @@
+com.example.autovoucher.test.app-jetified-tracing-1.1.0-0 C:\Users\rajub\.gradle\caches\8.10\transforms\3f9a7d5f08c6216697d783c55a8d4c0f\transformed\jetified-tracing-1.1.0\res
+com.example.autovoucher.test.app-jetified-core-1.6.1-1 C:\Users\rajub\.gradle\caches\8.10\transforms\f8b59a4cabffd439042546948a381e88\transformed\jetified-core-1.6.1\res
+com.example.autovoucher.test.app-androidTest-2 C:\Users\rajub\Desktop\AutoVoucher\app\build\generated\res\resValues\androidTest\debug
+com.example.autovoucher.test.app-mergeDebugAndroidTestResources-3 C:\Users\rajub\Desktop\AutoVoucher\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.autovoucher.test.app-mergeDebugAndroidTestResources-4 C:\Users\rajub\Desktop\AutoVoucher\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.autovoucher.test.app-debugAndroidTest-5 C:\Users\rajub\Desktop\AutoVoucher\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
