@@ -2,7 +2,7 @@
 
 ### Overview
 
-This code is an **Android automation service** designed to automatically handle voucher entry tasks.
+This is an **Android App** using an **Android accessibility service** designed to automatically handle voucher entry tasks.
 
 #### What It Does
 
