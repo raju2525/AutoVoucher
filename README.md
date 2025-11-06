@@ -8,7 +8,7 @@ This code is an **Android automation service** designed to automatically handle 
 
 #### What It Does
 
-1. Detects when you open the **Cinepolis** app.
+1. Detects when you open the **Target App** app.
 2. Identifies the on-screen fields for **“Gift Card Number”** and **“PIN.”**
 3. Automatically fills in your saved voucher details.
 4. Clicks the **“Apply”** button for you.
